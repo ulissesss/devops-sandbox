@@ -1,0 +1,2 @@
+    1  ls -lrt . && touch my_command_history.txt 
+    2  history > my_command_history.txt
